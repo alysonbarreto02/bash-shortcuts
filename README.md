@@ -39,4 +39,4 @@ source ble.sh/out/ble.sh
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/Bash-Shortcuts.git
+   git clone git@github.com:alysonbarreto02/bash-shortcuts.git
