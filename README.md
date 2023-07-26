@@ -34,6 +34,11 @@ make -C ble.sh
 source ble.sh/out/ble.sh
 ```
 
+After that paste in your .bashrc file 
+```shell
+source ble.sh/out/ble.sh
+```
+
 <!-- Installation -->
 ## Installation
 
